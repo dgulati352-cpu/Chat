@@ -1,0 +1,8 @@
+{
+  "name": "VibeChat",
+  "description": "A modern, high-fidelity messaging application with real-time chat, video calls, and secure login.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
